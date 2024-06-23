@@ -20,7 +20,7 @@ const Navbar = ({ scrollToSection, refs }) => {
 
       <nav className='nav-wrapper'>
         <div className='nav-content'>
-          <img className='logo' src="./assets/images/logo.png" alt="" style={{ width: "50px", height: "50px" }} />
+          <img className='logo' src="./assets/images/logo.png" alt="" style={{ width: "50px", height: "50px", borderRadius: "10px" }} />
 
           <ul>
             <li>
